@@ -1,3 +1,5 @@
+% Author: Shehzeen Malik
+% Description: This files detects object boundaries in the image and then makes a mask of the objects along the horizon line.
 function obj_I = object_detect(I)
 %% Pre-process the image
 % colour correction
