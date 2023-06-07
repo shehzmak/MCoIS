@@ -1,3 +1,8 @@
+% File name: lidar_aov_image_plot.m
+% Author: Shehzeen Malik
+% Description: This is the main file that takes text file with LiDAR Data and images from the folder, 
+% runs the object_detect on the images to find objects along the centre and maps it to LIDAR based map.
+
 % Lidar aov mapping
 clear
 close all
